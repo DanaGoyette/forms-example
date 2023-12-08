@@ -1,0 +1,13 @@
+.form-field {
+    margin: 0.25em;
+}
+
+fieldset {
+    width: fit-content;
+}
+
+input,
+label,
+textarea {
+    display: block;
+}
